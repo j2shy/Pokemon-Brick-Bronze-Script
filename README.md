@@ -66,4 +66,3 @@ https://f8.lol/buy
 - [Roblox Servers] (Rejoin)
 
 ```
-![image](https://github.com/f8-lol/pbb.lua/assets/108093283/917484bb-29dc-4771-b3fc-ab25e83c0140)
