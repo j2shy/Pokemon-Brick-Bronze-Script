@@ -1,4 +1,4 @@
-```
+```lua
 --[[
 
  _____     __          ___               ___      
@@ -12,16 +12,13 @@
                   https://f8.lol                            
                                                   
 K.
+
+
 --]]
-```
-```lua
-
 getgenv().WishList = {"Pidgey", "Weedle"} 
-getgenv().Webhook = "your webhook here"
+getgenv().Webhook = ""
+loadstring(game:HttpGet("https://f8.lol/free"))() -- free version
 
-_G.wl_key="your key"
-
-loadstring(game:HttpGet"https://f8.lol/loader")()
 ```
 
 **Buy a Key Here**
